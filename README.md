@@ -4,7 +4,8 @@
 
 ## NoteTaker Image
 
-## This application was created using the following:
+## Tools 
+This application was created using the following:
 * Node.js
 * Express.js
 * npm
